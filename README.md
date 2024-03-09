@@ -4,7 +4,7 @@ Whomrx-gpt!.<br><center>
 ![Whomrx-gpt preview](Whomrx-gpt.jpg)
 
 ## introduction
-This is a GPT chat which is related to the worm GPT and the natural enemy of the chat GPT 
+This is a Whomrx GPT which is related to the worm GPT and the natural enemy of the chat GPT 
 <details open>
     <summary><strong>How To Install:</strong></summary>
   
