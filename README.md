@@ -44,7 +44,7 @@ This is just my trial for the apikey. If the apikey has expired then you have to
 ## Observation
 This is a tool for education only, I am not responsible for any misuse
 ### Original Author
-<a href="https://github.com/Whomrx666"><img src="https://img.shields.io/badge/Original-Author-brightgreen.svg" alt=""/></a>
+<a href="https://github.com/MrSanZz"><img src="https://img.shields.io/badge/Original-Author-brightgreen.svg" alt=""/></a>
 
 ### <<< If you copy , Then Give me The Credits >>>
 
