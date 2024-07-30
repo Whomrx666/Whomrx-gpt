@@ -35,6 +35,9 @@ This is a Whomrx GPT which is related to the worm GPT and the natural enemy of t
 - **second**: Enter a question or something else in the Question column
 - **Last**: Then the Whomrx-gpt will immediately answer your questions
 
+### Error?update to V2!
+[Click here](https://github.com/Whomrx666/Whomrx-gptV2)
+
 ## Note
 This is just my trial for the apikey. If the apikey has expired then you have to make your own apikey
 ### need apikey?
